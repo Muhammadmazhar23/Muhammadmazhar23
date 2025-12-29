@@ -1,143 +1,103 @@
-Muhammad — Medical Bioinformatics & Computational Genomics
-🔬 About Me
+👨‍🔬 Muhammad | Medical Bioinformatics & Computational Genomics
+🧬 About Me
 
-I am a multidisciplinary Early Stage Researcher (ESR) specializing in Computational Human Medical Genomics, with a strong focus on deciphering the genetic and molecular mechanisms of complex and rare diseases. My work lies at the intersection of computational biology, bioinformatics, and biomedicine, integrating in-silico modeling, machine learning, and data-driven approaches to investigate disease-associated genetic variation and molecular dysfunction.
+Early Stage Researcher in Medical Bioinformatics with a strong focus on Computational Human Genomics
 
-Currently, I am pursuing a Master of Science in Medical Bioinformatics at the University of Verona, Italy, where my research focuses on neuro-informatics and structural biology, particularly the dynamic and functional impact of disease variants in CaMKIIβ associated with intellectual disability.
+Passionate about uncovering the genetic and molecular mechanisms of complex & rare diseases
 
-I am actively seeking research positions, PhD opportunities, and collaborative projects in medical bioinformatics, computational genomics, neuroinformatics, and translational biomedical research.
+Working at the interface of computation, genomics, and biomedicine
+
+Research-driven, data-oriented, and deeply interested in translational bioinformatics
 
 🎓 Education
-M.Sc. Medical Bioinformatics
 
-Università degli Studi di Verona, Verona, Italy
-📅 March 2022 – Present
-🎓 Expected Graduation: March 2026 (Session 2024/2025)
+M.Sc. in Medical Bioinformatics
+Università degli Studi di Verona, Italy
+March 2022 – Present (Graduation: March 2026 | Session 2024/2025)
 
 Research Thesis (Neuro-informatics):
 “Calmodulin Kinase II (CaMKIIβ) Disease Variants Dynamics: Structural and Functional Perturbations in Intellectual Disability”
 
-Structural and molecular dynamics analysis of disease-associated variants
+Focus on protein dynamics, disease variants, and neurodevelopmental disorders
 
-Functional perturbation modeling of neurodevelopmental proteins
+B.Sc. in Bioinformatics
+Government College University Faisalabad, Pakistan
+August 2017 – August 2021
 
-Computational neurogenomics and protein structure analysis
-
-B.Sc. Bioinformatics
-
-Government College University Faisalabad, Faisalabad, Pakistan
-📅 August 2017 – August 2021
-🎯 CGPA: 3.06 / 4.00
+CGPA: 3.06 / 4.00
 
 Research Thesis (Structural Bioinformatics):
-“Dihydrolipoamide Dehydrogenase (DLD) in Alzheimer’s Disease: Molecular Dynamics Simulation and Genetic Approaches”
+“Dihydrolipoamide Dehydrogenase (DLD) in Alzheimer’s Disease: Molecular Dynamics & Genetic Approaches”
 
-MD simulations of disease-related proteins
+🔬 Research Interests
 
-Genetic and structural insights into neurodegeneration
+🧠 Neuroinformatics & Neurogenomics
 
-Bioinformatics pipelines for disease association analysis
+🧬 Human Medical Genomics & Rare Disease Genetics
 
-🧬 Research Interests
+🧩 Pangenome Genetics & Genetic Variation
 
-Medical & Human Genomics
+🧪 Structural Bioinformatics & Molecular Dynamics
 
-Rare & Complex Disease Genetics
+🧠 Omics-based Biomedicine
 
-Neuro-informatics & Neurogenomics
+🦠 Computational Epidemiology & Infectious Disease Modeling
 
-Structural Bioinformatics & Molecular Dynamics
+🤖 Medical Machine Learning & AI in Healthcare
 
-Pangenome & Population Genomics
+🧠 Computational Expertise
 
-Computational Epidemiology of Infectious Diseases
+In-silico Disease Modeling
 
-Omics-based Biomedicine
+Structural & Functional Protein Analysis
 
-Medical Machine Learning & AI in Healthcare
+Variant Interpretation & Genotype–Phenotype Associations
 
-Statistical Modeling & Systems Biology
+Statistical & Mathematical Modeling of Disease Spread
 
-🧠 Research Expertise
+Data-driven Biomedical & Clinical Outcome Modeling
 
-Disease Variant Analysis: Structural & functional impact of pathogenic mutations
+🤖 AI & Data Science in Medicine
 
-Neuro-informatics: Protein dynamics in neurological and intellectual disorders
+Medical Machine Learning & Predictive Modeling
 
-Computational Epidemiology: Mathematical and statistical disease modeling
+Neural Networks & Evolutionary Algorithms
 
-Medical AI: Machine learning, neural networks, and evolutionary algorithms for biomedical prediction
+Risk Prediction & Clinical Outcome Modeling
 
-Data-Driven Biomedicine: Omics integration and clinical outcome modeling
+Large-scale Genomic, Clinical & Multi-omics Data Processing
 
-💻 Technical Skills
-Programming & Scripting
+💻 Programming & Tools
 
-Python, R, C/C++, MATLAB
+Languages: Python, R, C/C++, MATLAB
 
-Bash scripting (Linux environments)
+Systems & Scripting: Linux, Bash
 
-Databases & Data Engineering
+Databases: SQL, PostgreSQL, MySQL
 
-SQL, PostgreSQL, MySQL
+Designed normalized schemas
 
-Database normalization, indexing, ETL pipelines, CTEs
+Optimized queries using Indexes, CTEs & ETL pipelines
 
-Query optimization for biomedical datasets
-
-Computational & Bioinformatics Tools
-
-Molecular Dynamics (MD) simulations
-
-Structural biology pipelines
-
-Machine learning frameworks for biomedical data
-
-Statistical modeling & biostatistics
-
-Operating Systems
-
-Linux (advanced), macOS, Windows
-
-📊 Methodologies & Techniques
+Bioinformatics & Computational Tools:
 
 Molecular dynamics simulations
 
-Structural perturbation analysis
+Statistical genomics pipelines
 
-Machine learning & predictive modeling
+Machine learning frameworks
 
-Statistical genetics & biostatistics
+📊 Research & Publications
 
-Epidemiological modeling
+Actively publishing in computational genomics & biomedical research
 
-Omics data integration
+Google Scholar Profile:
+🔗 https://scholar.google.com/citations?hl=en&user=lcRvflwAAAAJ&view_op=list_works&sortby=pubdate
 
-Pangenome analysis
+🌍 Research Philosophy
 
-📚 Publications & Academic Profile
+Bridging biology, medicine, and computation to advance precision medicine
 
-🔗 Google Scholar:
-https://scholar.google.com/citations?hl=en&user=lcRvflwAAAAJ
+Strong advocate of reproducible research & open science
 
-🤝 Collaboration & Opportunities
-
-I am highly interested in:
-
-PhD positions (Medical Bioinformatics / Computational Genomics)
-
-Research Assistant / ESR roles
-
-International research collaborations
-
-Interdisciplinary biomedical projects
-
-If your research involves genomics, neuroinformatics, disease modeling, or medical AI, I would be glad to collaborate.
-
-📫 Contact
-
-📍 Verona, Italy
-🔗 Google Scholar: linked above
-💻 GitHub: This profile
-
-“Bridging computation and medicine to uncover the molecular basis of disease.”
+Interested in collaborations across genomics, neuroscience, and AI-driven healthcare
